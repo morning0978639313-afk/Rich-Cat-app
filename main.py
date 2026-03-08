@@ -12,7 +12,6 @@ SYMBOL_MAP = {
     "加權指數 (^TWII)": "^TWII",
     "微台近全 (WTX=F)": "WTX=F",
     "台積電 (2330)": "2330.TW",
-    "台積電 ADR (TSM)": "TSM"
 }
 
 st.title("🐱 RICH CAT 戰情室 v5.1")
