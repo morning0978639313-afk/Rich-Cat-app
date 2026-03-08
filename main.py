@@ -9,9 +9,7 @@ st.set_page_config(page_title="RICH CAT 戰情室", layout="centered")
 
 # 2. 精確商品清單
 SYMBOL_MAP = {
-    "加權指數 (^TWII)": "^TWII",
     "微台近全 (WTX=F)": "WTX=F",
-    "台積電 (2330)": "2330.TW",
 }
 
 st.title("🐱 RICH CAT 戰情室 v5.1")
