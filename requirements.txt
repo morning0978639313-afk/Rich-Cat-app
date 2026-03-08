@@ -3,4 +3,5 @@ pandas
 pytz
 streamlit-autorefresh
 requests
+altair
 protobuf==3.20.3
